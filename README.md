@@ -1,4 +1,8 @@
 
+- add a split Function
+    --> The main maintainer of Osmium didn't want this change, since AI had helped with it...
+
+
 # Osmium Command Line Tool
 
 A multipurpose command line tool for working with OpenStreetMap data based on
